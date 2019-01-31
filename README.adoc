@@ -1,6 +1,6 @@
 = Simple JMS Client
 
-The uses the Crest command line tool to create a consumer and a producer of JMS text based messages.
+This example app uses the Crest command line tool to create a consumer and a producer of JMS text based messages.
 
 
 === Dependencies
